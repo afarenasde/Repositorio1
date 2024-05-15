@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    // nuevo cambio de CATEGORY
+    // nuevo cambio de CATEGORY 2
     public class Category
     {
         public int CategoryId { get; set; }
